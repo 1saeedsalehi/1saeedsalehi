@@ -28,7 +28,6 @@
 
 - 🔭 I’m currently working on Alibaba Travels ![Alibaba Logo](https://cdn.alibaba.ir/dist/73fe5f6c/img/logo.f05d292.svg)
 - 👯 I’m looking to collaborate on .Net Prrojects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about .NET,C#,Software Architecture,Micro Services, CQRS, event-sourcing
 
 <p align="center">
