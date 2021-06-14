@@ -26,9 +26,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- 🔭 I’m currently working on Alibaba Travels ![Alibaba Logo](https://cdn.alibaba.ir/dist/73fe5f6c/img/logo.f05d292.svg)
+- 🔭 I’m currently working in [ Alibaba Travels](https://www.alibaba.ir) ![Alibaba Logo](https://cdn.alibaba.ir/dist/73fe5f6c/img/logo.f05d292.svg)
 - 👯 I’m looking to collaborate on .Net Prrojects
 - 💬 Ask me about .NET,C#,Software Architecture,Micro Services, CQRS, event-sourcing
+- 📢 Here is my Blog [1saeedsalehi.ir](https://1saeedsalehi.ir)
+
 
 <p align="center">
  <a href="#" alt="Saeed Salehi's github stats">
