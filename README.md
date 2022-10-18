@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working in [IO Digital](https://iodigital.com)
 - 👯 I’m looking to collaborate on .Net Prrojects
-- 💬 Ask me about .NET,C#,Software Architecture,Micro Services, CQRS, event-sourcing
+- 💬 Ask me about .Net Core, C#, Microsoft Azure,Micro Services, CQRS, DDD, Functional Programming, 
 - 📢 Here is my Blog [1saeedsalehi.ir](https://1saeedsalehi.ir)
 
 
