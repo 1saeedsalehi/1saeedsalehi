@@ -4,11 +4,11 @@
 ### Who Am I?
 Saeed is like a superhero 🦸‍♂️ but instead of fighting crime, he fights bugs 🐛 as a software engineer. He's so good at debugging, he could probably fix a glitch in the Matrix! 💻
 
-But he's not just all code and no humor 😂, he knows that sharing his mistakes and experiences can help others and make the world a better place, one line of code at a time 👨‍💻. So if you need someone to debug your life, Saeed is your guy! 🤘
+But he's not just all code and no humor 😂, he knows that sharing his mistakes and experiences can help others and make the world a better place, one line of code at a time 👨‍💻. So if you need someone to debug your life, Saeed is the guy! 🤘
 
 - 🔭 I’m currently working in [IO Digital](https://iodigital.com)
-- 👯 I’m looking to collaborate on .Net Prrojects
-- 💬 Talk to me about .Net Core, C#, Microsoft Azure,Micro Services, CQRS, DDD, Functional Programming, 
+- 👯 I’m looking to collaborate on .Net Projects
+- 💬 Talk to me about .Net Core, C#, Microsoft Azure,Microservices, CQRS, DDD, Functional Programming, 
 - 📢 Here is my blog [1saeed.dev](https://1saeed.dev)
 
 <p align="center">
